@@ -1,5 +1,8 @@
 ### Hi there 👋
 My name is Artyom. I am 22 years old. I am currently studying neural network development and will be sharing my work here!!!
+
+![Codewars](https://github.r2v.ch/codewars?user=BigRussianBe_r&stroke=%23BB432C)
+
 <!--
 **ArtyomIT/ArtyomIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
